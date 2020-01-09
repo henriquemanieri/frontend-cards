@@ -1,0 +1,111 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h3{
+    color: hsl(234, 12%, 34%);
+}
+
+hr {
+    position: absolute;
+    width: 96%;
+    height: 0px;
+    border-bottom: none;
+    border-radius: 5px;
+    left: 3.2px;
+    bottom: 191px;
+}
+
+.first-title{
+    font-weight: lighter;
+    color: hsl(229, 6%, 66%);
+}
+
+.second-title{
+    color: hsl(234, 12%, 34%);
+}
+
+.sub-text{
+    color: hsl(229, 6%, 66%);
+    font-size: 15px;
+}
+
+.desc-tecnologies{
+    color: hsl(229, 6%, 66%);
+    font-size: 11px;
+}
+
+.card-text{
+    width: 240px;
+    height: 100px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.intro-div{
+    position: relative;
+    text-align: center;
+    margin: 5%;
+}
+
+.all-cards{
+    width: 1664px;
+    height: 500px;
+    text-align: center;
+}
+
+.card-tecnologies{
+    width: 300px;
+    height: 200px;
+    box-shadow: 0px 7px 20px #999;
+    border-radius: 5px;
+}
+
+.position-team-builder{
+    position: absolute;
+    text-align: left;
+    left: 41.6%;
+}
+
+.position-calculator{
+    position: absolute;
+    text-align: left;
+    left: 61.5%;
+    top: 53%;
+}
+
+.position-supervisor{
+    position: absolute;
+    text-align: left;
+    left: 22%;
+    top: 53%;
+}
+
+.position-karma{
+    position: absolute;
+    text-align: left;
+    left: 41.6%;
+    top: 64%;
+
+}
+
+.position-icon-card{
+    position: absolute;
+    left: 73%;
+}
+
+#border-team-builder{
+    border: solid hsl(0, 78%, 62%) 2px;
+}
+
+#border-calculator{
+    border: solid hsl(212, 86%, 64%) 2px;
+}
+
+#border-supervisor{
+    border: solid hsl(180, 62%, 55%) 2px;
+}
+
+#border-karma{
+    border: solid hsl(34, 97%, 64%) 2px;
+}
